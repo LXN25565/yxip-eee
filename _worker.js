@@ -7,13 +7,13 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
         'icook.tw:2053#官方优选域名 - icook.tw',
         'cloudflare.cfgo.cc#优选官方线路 - cloudflare.cfgo.cc',
-        'proxyip.digitalocean.fxxk.dedyn.io#反代优选域名 - 数码海',
-        'proxyip.aliyun.fxxk.dedyn.io#反代优选域名 - 阿里云',
-        'proxyip.oracle.fxxk.dedyn.io#反代优选域名 - 甲骨文',
-        'proxyip.hk.fxxk.dedyn.io#反代优选域名 - 🇭🇰香港',
-        'proxyip.jp.fxxk.dedyn.io#反代优选域名 - 🇯🇵日本',
-        'proxyip.sg.fxxk.dedyn.io#反代优选域名 - 🇸🇬新加坡',
-        'proxyip.us.fxxk.dedyn.io#反代优选域名 - 🇺🇸美国',
+        'proxyip.digitalocean.fxxk.dedyn.io:80#反代优选域名 - 数码海',
+        'proxyip.aliyun.fxxk.dedyn.io:80#反代优选域名 - 阿里云',
+        'proxyip.oracle.fxxk.dedyn.io:80#反代优选域名 - 甲骨文',
+        'proxyip.hk.fxxk.dedyn.io:80#反代优选域名 - 🇭🇰香港',
+        'proxyip.jp.fxxk.dedyn.io:80#反代优选域名 - 🇯🇵日本',
+        'proxyip.sg.fxxk.dedyn.io:80#反代优选域名 - 🇸🇬新加坡',
+        'proxyip.us.fxxk.dedyn.io:80#反代优选域名 - 🇺🇸美国',
 ];
 
 // 设置优选地址api接口
